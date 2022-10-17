@@ -13,6 +13,9 @@
 ### Spotify Playing 🎧
 [<img src="https://github.com/Utsav1999/Utsav1999/blob/main/gifs/music.gif" alt="Surrender Spotify Playing" width="350" />](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6)
 
+### My Holopin Dashboard Of Cool Badges
+[![@unaskar's Holopin board](https://holopin.me/unaskar)](https://holopin.io/@unaskar)
+
 ### About Me
 
 - 🔭 I’m agile to learn new things.
